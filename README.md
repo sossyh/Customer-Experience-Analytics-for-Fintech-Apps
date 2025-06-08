@@ -79,7 +79,7 @@ Follow the steps in the notebook to load the review dataset, run sentiment analy
 ## 📬 Contact
 
 **Sosna Worku Achamyeleh**
-📧 sosnaworku\[at]gmail.com
+📧 sosworkuacha\[at]gmail.com
 🌐 GitHub: https://github.com/sossyh
 
 ---
