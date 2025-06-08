@@ -1,6 +1,3 @@
-Here’s a cleaner, task-free `README.md` that explains the project and provides all necessary setup instructions:
-
----
 
 # 📊 Customer Experience Analytics for Fintech Apps
 
