@@ -45,7 +45,7 @@ Customer-Experience-Analytics-for-Fintech-Apps/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Customer-Experience-Analytics-for-Fintech-Apps.git
+git clone https://github.com/sossyh/Customer-Experience-Analytics-for-Fintech-Apps.git
 cd Customer-Experience-Analytics-for-Fintech-Apps
 ```
 
